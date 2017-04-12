@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="container">
+		<TableView id="listNewsView" height="Ti.UI.SIZE" top="20"  ></TableView>
+	</Window>
+</Alloy>
